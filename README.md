@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🎡, I'm Suhas</h1>
-<h3 align="center">A passionate frontend developer from India looking for new SDE intern and entry-level opportunities</h3>
+<h3 align="center">A passionate frontend developer from India looking for new SDE Developer and entry-level opportunities</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas-107&label=Profile%20views&color=0e75b6&style=flat" alt="suhas-107" /> </p>
